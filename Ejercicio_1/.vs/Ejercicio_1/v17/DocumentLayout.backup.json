@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BENJAMIN\\Desktop\\Ejercicios con Genericos\\Ejercicio_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0B45C9-A8DC-47EC-9315-3915EE39E141}|Ejercicio_1\\Ejercicio_1.csproj|c:\\users\\benjamin\\desktop\\ejercicios con genericos\\ejercicio_1\\ejercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0B45C9-A8DC-47EC-9315-3915EE39E141}|Ejercicio_1\\Ejercicio_1.csproj|solutionrelative:ejercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0B45C9-A8DC-47EC-9315-3915EE39E141}|Ejercicio_1\\Ejercicio_1.csproj|c:\\users\\benjamin\\desktop\\ejercicios con genericos\\ejercicio_1\\ejercicio_1\\ejercicio_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F0B45C9-A8DC-47EC-9315-3915EE39E141}|Ejercicio_1\\Ejercicio_1.csproj|solutionrelative:ejercicio_1\\ejercicio_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio_1",
+              "DocumentMoniker": "C:\\Users\\BENJAMIN\\Desktop\\Ejercicios con Genericos\\Ejercicio_1\\Ejercicio_1\\Ejercicio_1.csproj",
+              "RelativeDocumentMoniker": "Ejercicio_1\\Ejercicio_1.csproj",
+              "ToolTip": "C:\\Users\\BENJAMIN\\Desktop\\Ejercicios con Genericos\\Ejercicio_1\\Ejercicio_1\\Ejercicio_1.csproj",
+              "RelativeToolTip": "Ejercicio_1\\Ejercicio_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T17:30:47.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BENJAMIN\\Desktop\\Ejercicios con Genericos\\Ejercicio_1\\Ejercicio_1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_1\\Program.cs",
+              "ToolTip": "C:\\Users\\BENJAMIN\\Desktop\\Ejercicios con Genericos\\Ejercicio_1\\Ejercicio_1\\Program.cs*",
+              "RelativeToolTip": "Ejercicio_1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:29:53.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

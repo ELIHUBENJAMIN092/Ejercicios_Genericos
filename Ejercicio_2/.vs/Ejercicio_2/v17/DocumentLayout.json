@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BENJAMIN\\Desktop\\Ejercicios con Genericos\\Ejercicio_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3AB609-EA86-41B4-8AF6-F8EDA71CD8F2}|Ejercicio_2\\Ejercicio_2.csproj|c:\\users\\benjamin\\desktop\\ejercicios con genericos\\ejercicio_2\\ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3AB609-EA86-41B4-8AF6-F8EDA71CD8F2}|Ejercicio_2\\Ejercicio_2.csproj|solutionrelative:ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BENJAMIN\\Desktop\\Ejercicios con Genericos\\Ejercicio_2\\Ejercicio_2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Program.cs",
+              "ToolTip": "C:\\Users\\BENJAMIN\\Desktop\\Ejercicios con Genericos\\Ejercicio_2\\Ejercicio_2\\Program.cs",
+              "RelativeToolTip": "Ejercicio_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:48:04.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
